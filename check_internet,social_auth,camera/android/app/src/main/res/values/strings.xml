@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Check Internet</string> 
-<string name="facebook_app_id">1168442215328382</string>
-<string name="fb_login_protocol_scheme">fb1168442215328382</string>
-<string name="facebook_client_token">632ffaef46ffd47ebdf0a1eceb0bb799</string>
-
-</resources>
