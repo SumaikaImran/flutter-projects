@@ -1,0 +1,136 @@
+import 'dart:core';
+
+class AppStrings {
+  static String mainDishes = 'Main Dishes';
+  static String salads = 'Salads';
+  static String appitizers = 'Appetizers';
+  static String featured = 'Featured';
+  static String newFollowers = 'New Followers';
+  static String likesComments = 'Likes & Comments';
+  static String saveShare = 'Saves & Shares';
+  static String newmsg = 'New Messages';
+  static String messages = 'Messages';
+  static String recent = 'Recent';
+  static String notifications = 'Notifications';
+  static String rateFood = 'Rate Food';
+  static String funPlace = 'Fun Place';
+  static String tastyFood = 'Tasty Food';
+  static String coolServer = 'Cool Server';
+  static String cleanTable = 'Clean Table';
+  static String shareToStories = 'Share to Stories';
+  static String tweetPhoto = 'Tweet Photo';
+  static String saveToDevice = 'Save to Device';
+  static String post = 'Post';
+  static String review = 'Review';
+  static String edit = 'Edit';
+  static String camera = 'Camera';
+  static String cancel = 'Cancel';
+  static String suggestedLists = 'Suggested Lists';
+  static String discoverMore = 'Discover More';
+  static String rating = 'Rating';
+  static String search = 'Search';
+  static String food = 'Food';
+  static String service = 'Service';
+  static String vibes = 'Vibes';
+  static String value = 'Value';
+  static String home = 'Home';
+  static String explore = 'Explore';
+  static String eat = 'Eat';
+  static String lists = 'Lists';
+  static String profile = 'Profile';
+  static String comments = 'Comments';
+  static String comment = 'Comment';
+  static String saveToList = 'Save to List';
+  static String manlyMeats = 'Manly Meats';
+  static String greekGoodness = 'Greek Goodness';
+  static String morningDelight = 'Morning Delight';
+  static String healthyTreats = 'Healthy Treats';
+  static String newList = 'New List';
+  static String listTile = 'List Title';
+  static String privateList = 'Private List';
+  static String createList = 'Create List';
+
+  static String pakistanCables = 'Pakistan Cables';
+  static String welcomeBack = 'Welcome Back!';
+  static String successfully = 'Successfully';
+  static String email = "Email";
+  static String emailAddress = "Email Address";
+  static String phoneNumber = "Phone Number";
+  static String registerHere = 'Register Here';
+  static String donthaveanAccountYet = "Don't have an account yet? ";
+  static String haveanAccount = "Have an account? ";
+  static String password = "Password";
+  static String forgotPassword = "Forgot Password?";
+  static String forgotYourPassword = "Forgot Your Password!";
+  static String rememberMe = "Remember me";
+  static String signIn = "Sign In";
+  static String submitted = "Submitted";
+  static String resetYourPassword = "Reset Your Password";
+  static String newPassword = "New Password";
+  static String confirmPassword = "Confirm Password";
+  static String resetPassword = "Reset Password";
+  static String otpVerification = 'OTP Verification';
+  static String verifyOTP = "Verify OTP";
+  static String resendOTP = 'Resend OTP';
+  static String codeSent = 'Enter the 6-digit code sent to your number';
+  static String pleaseEnterTheEmail = 'Please enter the email';
+  static String backToLogin = 'Back To Login';
+  static String createNewPassword = "Create New Password";
+  static String confirm = "Confirm";
+  static String toResetYourPasswordYouNeedYourEmailThatCanBeAuthenticated =
+      'To reset your password, you need your email that can be authenticated';
+  static String yourNewPasswordMustBeDifferentFromPreviousPassword =
+      'your new password must be different from previous password';
+  static String weHaveJustSendYouFiveDigitsToYourEmailAddress =
+      "We’ve just send you 5 digits to your email address";
+  static String
+  yourPasswordHasBeenUpdatedpPeaseChangeYourPasswordRegularlyToAvoidThisHappening =
+      yourPasswordHasBeenUpdatedpPeaseChangeYourPasswordRegularlyToAvoidThisHappening =
+          'Your password has been updated, please change your password regularly to avoid this happening';
+  static String incorrectOTP = 'Incorrect OTP';
+  static String otpResendMessage = 'OTP has been Resent Successfully.';
+  static String youHavenotReceivedTheEmail = 'you have not received the email?';
+  static String resend = ' Resend';
+  static String orderPunching = 'Order Punching';
+  static String vendorName = 'VENDOR NAME';
+  static String productsType = 'PRODUCTS TYPE';
+  static String products = 'PRODUCTS';
+  static String paymentType = 'PAYMENT TYPE';
+  static String selectCustomer = 'Select Customer';
+  static String selectProduct = 'Select Product';
+  static String selectTeam = 'Select Team';
+  static String selectType = 'Select Type';
+  static String createOrder = 'Create Order';
+  static String teamManagement = 'Team Management';
+  static String marketingCollateral = 'Marketing Collateral';
+  static String teamMembers = 'Team Members';
+  static String listOfTeams = 'LIST OF TEAMS';
+  static String listOfMembers = 'LIST OF MEMBERS';
+  static String orderDetails = 'Order Details';
+  static String orderDate = 'Order Date';
+  static String orderNumber = 'Order Number';
+  static String deliveryAddress = 'Delivery Address';
+  static String deliveryDate = 'Delivery Date';
+  static String itemDetails = 'Item Details';
+  static String nameSizes = 'Name/Sizes';
+  static String qty = 'Qty';
+  static String deliverQty = 'Deliver Qty';
+  static String rate = 'Rate';
+  static String totalAmount = 'Total Amount';
+  // static String comment = 'Comment';
+
+  static String hintTextOfOrderDetail =
+      'Add a Note:  This is a small notes section that only the seller can see.';
+  static String trackOrder = 'Track Order';
+  static String trackingId = 'Tracking ID:';
+  static String orderPlaced = 'Order Placed';
+  static String anOrderHasBeenPlaced = 'An order has been placed';
+  static String placed = 'Packed';
+  static String pickedUpByCourierPartner = 'Picked up by courier partner';
+  static String shipped = 'Shipped';
+  static String qwtLogistics = 'QWT Logistics';
+  static String outForDelivery = 'Out for Delivery';
+  static String delivered = 'Delivered';
+  static String noData = 'No Data';
+  static String attendance = 'Attendance';
+}
